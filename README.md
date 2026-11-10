@@ -111,4 +111,4 @@ The rule sheet is the hidden instructions your bot gets with every customer mess
 - Fix it for me is 2 runs. A training session is 10 runs.
 - A team runs one thing at a time. Cancel any time from the Billing page.
 
-Stuck? Email rulebook.tech@gmail.com.
+Stuck? Email hello@rulebook.tech.
